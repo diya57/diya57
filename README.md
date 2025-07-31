@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi.I'm Oindrila Sarkar Diya 👋
 
 <!--
 **diya57/diya57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
