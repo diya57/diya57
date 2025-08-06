@@ -8,3 +8,22 @@
             🧠 I’m working on building real-life **Mini Projects**
             📫 How to reach me: **diyasarkar3@email.com**
             🧠 I’m working on building real-life **Mini Projects**
+            ⚡ Fun fact: I love writing journal and doing yoga and also I believe in "Discipline + Consistency = Success"🧘‍♀️
+            ### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
+
+### 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diyaSarkar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diyaSarkar&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaSarkar&layout=compact&theme=tokyonight" />
+</p>
+
