@@ -26,13 +26,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diyaSarkar&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaSarkar&layout=compact&theme=tokyonight" />
 </p>
-### 📈 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diyaSarkar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diyaSarkar&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaSarkar&layout=compact&theme=tokyonight" />
-</p>
 ### 🌐 Let's Connect:
 
 <p align="left">
