@@ -26,4 +26,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diyaSarkar&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaSarkar&layout=compact&theme=tokyonight" />
 </p>
+### 📈 GitHub Stats:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diyaSarkar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diyaSarkar&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaSarkar&layout=compact&theme=tokyonight" />
+</p>
+### 🌐 Let's Connect:
+
+<p align="left">
+<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:diya.sarkar@email.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
